@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/My Achievements-{white}?style={for-the-badge}&logo={Achievements}&logoColor={blue}"/>
+<img src="https://img.shields.io/badge/My Github Record-{white}?style=default&logo={Achievements}&logoColor={blue}"/>
 
 ![JhinJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhinJeon&show_icons=true&theme=algolia)
