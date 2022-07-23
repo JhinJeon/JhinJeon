@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<blue>"/>
+<img src="https://img.shields.io/badge/{My Achievements}-{white}?style={for-the-badge}&logo={Achievements}&logoColor={blue}"/>
