@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/My Achievements-{white}?style={for-the-badge}&logo={Achievements}&logoColor={blue}"/>
+
+![JhinJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhinJeon&show_icons=true&theme=algolia)
